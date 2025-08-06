@@ -1,0 +1,9 @@
+Item Number,Partnumber,Manufacturer P/N,Manufacturer Name,Manufacturer Family,Part Type,Description,Comment,Value (Numeric),Value (Text),Quantity,Unit of Measure,Manufactured here,RoHS Status,Build Sequence,Revision Name,Revision Status,Revision Reason,Preferred Vendor,Standard Cost,Standard Cost Currency,Standard Lead Time,Standard Cost Minimum,Standard Cost Multiple,Standard Cost Comment
+1,B-0165,B-0165,"FlexRadio, Inc.",,Assembly,BBPA BIGBEND MOSFET PA100,"","","",1,each,true,true,"",D,Active,"Added various features, depop shield, transformer mounted cap, etc.","",,USD,,,,
+2,H-0520,H-0520,Aavid Thermalloy,,Hardware,HEAT SINK DEPA100,"",9.2,9.20,1,each,false,true,"",E,Active,UPDATED BASED ON OL HOLE LOCATION,"",,USD,,,,
+3,H-0042,H-0042,"United Sheetmetal, Inc.",,Hardware,FET GND TAB,"",0.65,0.65,4,each,false,true,"",A,Active,"","United Sheetmetal, Inc.",0.75,USD,,,,
+4,H-0526,93493A108,McMaster-Carr,,Hardware,"WASHER FIBERGLASS 0.75"" OD 0.054-0.07 THK","","","",1,each,false,true,"",A,Active,"",McMaster-Carr,,USD,,,,
+5,H-0527,H-0527,McMaster-Carr,,Hardware,STANDOFF M3-0.5 x 25MM M/F 4.5MM OD,"","","",4,each,false,true,"",A,Active,"","",0.53,USD,,,,
+6,H-0053,96741A118,McMaster-Carr,,Hardware,SCREW BRASS M3 X 10MM LONG PHILLIPS HEAD,"","","",6,each,false,true,"",A,Active,"","",,USD,,,,
+7,H-0209,"PK-1, 30 GRAM",PROLIMATECH,,Hardware,HEATSINK COMPOUND,"PROLIMATECH PK-1, 30 GRAM","","",4,each,false,true,"",A,Active,"","",,USD,,,,
+8,CBL-0129,CBL-0129,PiPlus,,Cable,CBL 2 IN 16-PIN 2MM IDC OPPOSING,"","",0.65,1,each,false,true,"",A,Active,"","",0.65,USD,,,,

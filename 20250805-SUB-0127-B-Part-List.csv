@@ -1,0 +1,10 @@
+Item Number,Partnumber,Manufacturer P/N,Manufacturer Name,Manufacturer Family,Part Type,Description,Comment,Value (Numeric),Value (Text),Quantity,Unit of Measure,Manufactured here,RoHS Status,Build Sequence,Revision Name,Revision Status,Revision Reason,Preferred Vendor,Standard Cost,Standard Cost Currency,Standard Lead Time,Standard Cost Minimum,Standard Cost Multiple,Standard Cost Comment
+1,SM05-0024,SM05-0024,"FlexRadio, Inc.",,Sheet Metal,BB FRONT PANEL ADAPTER PLATE,"",0.0,0,1,each,false,true,"",A,Active,"","",,USD,,,,
+2,IM03-0012,IM03-0012,PiPlus,,Injection Molding,ASSY DE BLANK FRONT PANEL IM03-0008/0009/0010/0011,REV B,"",9.80,1,each,false,true,"",C,Active,3 Swoosh,"",9.8,USD,,,,
+3,IM03-0006,IM03-0006,PiPlus,,Injection Molding,BUTTON PLASTIC POWER/START FOR DE BLANK PANEL,REV B,"",0.58,1,each,false,true,"",B,Active,"","",0.058,USD,,,,
+4,IM-0009,IM-0009,PiPlus,,Injection Molding,BB LOGO PLATE FOR BLANK PANEL (3S),"","","",1,each,false,true,"",A,Active,"","",,USD,,,,
+5,B-0100,B-0100,Kodiak Assembly,,Assembly,ASSY DESW POWER SWITCH/LED,"","","",1,each,true,true,"",F,Active,Production Release. No Changes from E.,Kodiak Assembly,12.0,USD,,,,
+6,LED-0024,LED-0024,PiPlus,,LED,LED DE LOGO BACKLIGHT 4 BLUE LED,"","","",1,each,false,true,"",A,Active,"","",1.84,USD,,,,
+7,H-0508,369882,Fastener Superstore,,Hardware,SCREW M3-0.5 X 8 PHILLIPS HD DOUBLE WASHER,"","","",7,each,false,true,"",A,Active,"","",0.022,USD,,,,
+8,H-0738,99461A615,McMaster-Carr,,Hardware,"18-8 Stainless Steel, Number 1 Size, 1/4"" Long",for plastic,"","",4,each,true,true,"",-,Active,"","",,USD,,,,
+9,H-0739,98019A395,McMaster-Carr,,Hardware,"Number 1 Screw Size, MS/NASM 15795-801","","","",4,each,true,true,"",-,Active,"","",,USD,,,,

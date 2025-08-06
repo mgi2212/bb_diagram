@@ -1,0 +1,9 @@
+Item Number,Partnumber,Manufacturer P/N,Manufacturer Name,Manufacturer Family,Part Type,Description,Comment,Value (Numeric),Value (Text),Quantity,Unit of Measure,Manufactured here,RoHS Status,Build Sequence,Revision Name,Revision Status,Revision Reason,Preferred Vendor,Standard Cost,Standard Cost Currency,Standard Lead Time,Standard Cost Minimum,Standard Cost Multiple,Standard Cost Comment
+1,SUB-0109,SUB-0109,"FlexRadio, Inc.",,Subassembly,FLEX-8600 MID LEVEL RADIO SUB,"","","",1,each,true,true,"",B,Active,Fix for FLEX-8000,"",,USD,,,,
+2,SUB-0127,SUB-0127,"FlexRadio, Inc.",,Subassembly,BB Front Panel Logo,"","","",1,each,true,unknown,"",B,Active,Add self-tapping screws for logo plate,"",,USD,,,,
+3,KIT-0136,KIT-0136,"FlexRadio, Inc.",,Assembly,KIT DE/BB/ML CASE FINAL BUILD OUT,"","","",1,each,true,true,"",F,Active,Remove hole plug for BB/ML radios,"",,USD,,,,
+4,KIT-0161,KIT-0161,"FlexRadio, Inc.",,Kit,KIT FLEX-8400/8600 TLA & RETAIL PACK OUT,"","","",1,each,true,true,"",B,Active,Swap GPS antenna,"",,USD,,,,
+5,LBL-0018,THT-17-423-3,Brady,,Label,SERIAL NUMBER LABEL,https://www.bradyid.com/barcode-labels/3-core-glossy-white-polyester-barcode-solar-panel-labels-cps-3053222?part-number=tht-17-423-3&cid=ppc&camp=ppc-us-brand-google.com-search-printer_parts_bmm-tht_17_423_3-%2Btht%20%2B17%20%2B423%20%2B3&s_kwcid=AL!10720!3!378056439724!b!!g!!%2Btht%20%2B17%20%2B423%20%2B3&gclid=CjwKCAjw3_KIBhA2EiwAaAAligm_Edj_a9iA-cQyvflreT31ZaYbvaEaSXFo_a8fhP1rEyy84up3_xoC3BYQAvD_BwE,"","",1,each,true,true,"",A,Active,"","",1.0,USD,,,,
+6,LBL-0036,LBL-0036,"Marking Systems, Inc.",,Label,Product Label for FLEX-8600,"","","",1,each,false,true,"",A,Active,"","",,USD,,,,
+7,SM05-0025,SM05-0025,"FlexRadio, Inc.",,Sheet Metal,BB HDMI COVER PLATE,"","","",1,each,true,unknown,"",A,Active,"","",,USD,,,,
+8,H-0508,369882,Fastener Superstore,,Hardware,SCREW M3-0.5 X 8 PHILLIPS HD DOUBLE WASHER,"","","",2,each,false,true,"",A,Active,"","",0.022,USD,,,,
